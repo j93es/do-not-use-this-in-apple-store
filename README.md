@@ -4,10 +4,23 @@
 
 ## Useage
 
+1. init
+
 ```script
 git clone https://github.com/J93es/do-not-use-this-in-apple-store.git
 cd do-not-use-this-in-apple-store
+```
+
+2. simple mode
+
+```script
 make
+```
+
+3. use your own image
+
+```script
+make run IMG=./your/img/path/img.png
 ```
 
 ## More
