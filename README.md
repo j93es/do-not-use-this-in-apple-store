@@ -4,24 +4,51 @@
 
 ## Useage
 
-1. init
+1. Recommand for shy dev
 
 ```script
 git clone https://github.com/J93es/do-not-use-this-in-apple-store.git
 cd do-not-use-this-in-apple-store
-```
-
-2. simple mode
-
-```script
 make
 ```
 
-3. use your own image
+2. Init
 
 ```script
-make run IMG=./your/img/path/img.png
+git clone https://github.com/J93es/do-not-use-this-in-apple-store.git
+cd do-not-use-this-in-apple-store
+make install
 ```
+
+3. Makefile cmd description
+
+- make
+  Download packages and use pre-prepared images.
+
+  ```script
+  make
+  ```
+
+- install
+  Download packages
+
+  ```script
+  make install
+  ```
+
+- run
+  Use your own image
+
+  ```script
+  make run IMG=/your/img/path/img.png
+  ```
+
+- help
+  Makefile cmd description
+
+  ```script
+  make help
+  ```
 
 ## More
 
