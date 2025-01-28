@@ -11,7 +11,7 @@
 1. Recommand for shy dev
 
 ```script
-git clone https://github.com/J93es/do-not-use-this-in-apple-store.git
+git clone https://github.com/j93es/do-not-use-this-in-apple-store.git
 cd do-not-use-this-in-apple-store
 make
 ```
@@ -19,7 +19,7 @@ make
 2. Init
 
 ```script
-git clone https://github.com/J93es/do-not-use-this-in-apple-store.git
+git clone https://github.com/j93es/do-not-use-this-in-apple-store.git
 cd do-not-use-this-in-apple-store
 make install
 ```
