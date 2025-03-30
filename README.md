@@ -60,6 +60,6 @@ make install
 
 - 실제 apple store mac 환경에서 돌아가는지는 테스트해보지 않았으며, 테스트하지 않을 예정입니다.
 
-1. Contact
+2. Contact
 
-- 디렉토리 삭제를 원하신다면 j93es@naver.com으로 연락해주세요. 열심히 협조하겠습니다.
+- 디렉토리 삭제를 원하신다면 j93es@naver.com으로 연락주시길 바라겠습니다.
